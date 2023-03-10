@@ -1,0 +1,373 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    
+}
+.navbar ul li{
+    padding-left: 10%;
+    margin-top: 2%;
+    gap: 10%;
+}
+.headone,.headtwo{
+    color: rgb(228, 159, 32);
+}
+.headone{
+    font-size: 20px;
+    
+}
+.homend{
+    background-color: rgba(240, 232, 216, 0.7);
+}
+.homepage{
+    display: flex;
+    
+}
+.scape{
+    width: 50%;
+    padding: 5%;
+    margin: 2%;
+    font-size: 30px;
+}
+.scape button{
+    margin-top: 2%;
+    padding: 20px 30px 20px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 15px;
+
+}
+.para{
+    font-size: 50px;
+}
+.special p{
+    font-size: 20px;
+}
+.image img{
+height: 400px;
+
+
+margin-right: 100px;
+}
+.foodPart{
+    display: flex;
+    margin-left: 3%;
+    text-align: center;
+}
+.homespace h3,h1{
+    text-align: center;
+    padding: 10px;
+}
+.foodPart img{
+    height: 200px;
+    width: 200px;
+    border-radius: 400px;
+    
+}
+.fruitdish{
+    padding-left:8% ;
+}
+.button{
+    display: flex;
+    
+    text-align: center;
+    border: 1px solid transparent;
+    background-color: orange;
+ padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+   
+
+   
+}
+.button a{
+    text-decoration-line: none;
+    color: aliceblue;
+    padding-left: 30px;
+    
+    
+}
+.fruitdish ion-icon {
+color: orange;
+
+}
+.lanpage{
+    background-color: rgba(240, 232, 216, 0.7);
+    height: 500px;
+    margin-top: 30px;
+  
+
+
+}
+.landscape{
+    display: flex;
+    margin-left:16% ;
+    padding-top: 0px;
+}
+.special{
+    padding-top: 150px;
+   
+}
+.photo img{
+   margin-bottom: 400px;
+    height: 600px;
+    padding-left: 100px;
+}
+.percentage{
+    background-color: orange;
+    color: aliceblue;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 10px 10px;
+    font-size: 10px;
+    margin-bottom: 5%;
+}
+.menu{
+    background-color: orange;
+    color: aliceblue;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 10px 10px;
+    font-size: 10px;
+    margin-top: 5%;
+}
+.offerplace{
+    display: flex;
+margin-left: 2%;
+
+
+
+}
+.heading3{
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+.heading3 h2,p{
+margin: 2%;
+
+}
+
+.anyoffer{
+    display: flex;
+    background-color: rgba(248, 242, 242, 0.7);
+    margin-left: 2%;
+    padding: 20px;
+    border: 1px solid transparent;
+}
+.burger,.map,.salad{
+    border: 1px solid transparent;
+    background-color: orange; 
+    border-radius: 100px;
+   
+}
+.anyoffer img{
+    height: 200px;
+    width:200px;
+   
+}
+.heading6{
+    text-align: center;
+}
+.heading2{
+    padding-top: 50px;
+    font-size: 15px;
+}
+
+.ourService{
+    display: flex;
+    margin-top: 30px;
+
+}
+.service img{
+    height: 200px;
+}
+
+.service{
+    padding-top: 10px;
+    margin-left: 100px;
+}
+.picture{
+    margin-left: 20%;
+    height: 20px;
+}
+.picture img{
+ margin-left: 5%;
+
+}.woman{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.man{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+
+}
+.man1{
+    height: 150px;
+    width: 150px;
+    border-radius: 200px;
+}
+.heading6 h2 h5 p{
+text-align: center;
+
+}
+.heading6 h2{
+    font-size: 50px;
+}
+.heading6 h5{
+    margin-top: 5%;
+}
+.heading6 h1{
+    font-size: 50px;
+    color: orange;
+}
+.headSeven {
+    text-align: center;
+    padding-right: 250px;
+    padding-top:30px;
+    
+   
+   
+}
+.pictures2{
+    margin-bottom: 250px;
+}
+.middlepage{
+    display: flex;
+    padding-left: 200px;
+    background-color: rgb(248, 245, 240,0.7);
+
+}
+.middlepage img{
+    height: 300px;
+    width: 300px;
+}
+
+.download h3{
+    font-size: 40px;
+
+
+}
+.para{
+    font-size: 20px;
+    color: orange;
+}
+.storebutton{
+    display: flex;
+    margin-left: 100px;
+}
+.appstore{
+    display: flex;
+    font-size: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin: 20px;
+    padding: 15px 10px 15px 10px;
+    border-radius: 20px;
+}
+.playstore{
+    display:  flex;
+    font-size: 10px;
+    background-color: black;
+    margin: 20px;
+    color: aliceblue;
+    padding: 15px 10px 15px 10px;
+    border-radius: 20px;
+
+}
+.apple ion-icon{
+   font-size: 20px;
+}
+.house{
+    padding-top: 50px;
+    color: aliceblue;
+}
+.newsletter{
+    display: flex;
+  
+  background-color: rgb(248, 245, 240,0.7);
+  height: 100px;
+  padding-top: 100px;
+
+}
+.subscribe{
+    padding-right: 20px;
+    padding-left: 10%;
+    
+}
+.subscribe h2{
+font-size: 40px;
+}
+.form input{
+padding: 20px 50px 20px 50px;
+border: none;
+}
+.form{
+    margin-left: 200px;
+    
+}
+.form  button{
+    padding: 20px 50px 20px 50px;
+  position: absolute;
+  border: none;
+  background-color: orange;
+  border-radius: 20px;
+  color: white;
+
+
+}
+.healthy{
+    color: orange;
+}
+
+.foodHouse{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    height: 300px;
+   
+
+}
+.company ul{
+    list-style: none;
+    padding-top: 4
+    0px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.company ul li {
+    
+    padding-left: 30%;
+}
+.house{
+    padding-left: 100px;
+}
+.endpage{
+    margin-bottom: -10px;
+    background-color: orange;
+}
+
+.endgame{
+    background-color: orange;
+    margin-top: -5%;
+    display: flex;
+    color: white;  
+}
+@media all  and (min-width:480px){
+    body{
+       margin:0%
+      
+
+     
+       
+    }
+
+}
